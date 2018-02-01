@@ -24,12 +24,12 @@ A curated list of selected readings to illustrate Scalability, Availability, and
 - [Books](#books)
 
 ## Principles
-* [Principles of Chaos Engineering](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
-* [Finding the Order in Chaos](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
+* ✅🔥 [<s>Principles of Chaos Engineering</s>](https://www.usenix.org/conference/srecon17americas/program/presentation/rosenthal)
+* ✅ [<s>Finding the Order in Chaos</s>](https://www.usenix.org/conference/srecon16/program/presentation/lueder)
 * [The Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [The Twelve-Factor App](https://12factor.net/)
 * [10 Common (Large-Scale) Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
-* [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
+* ✅ [<s>CAP Theorem and Trade-offs</s>](http://robertgreiner.com/2014/08/cap-theorem-revisited/)	
 * [CAP Twelve Years Later: How the "Rules" Have Changed (2012) - Eric Brewer, VP of Infrastructure at Google](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)	
 * [Scale Up or Scale Out, What it is and Why You Should Care](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
 * [Scaling Up vs Scaling Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
